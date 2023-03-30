@@ -1,0 +1,11 @@
+After the binary search:
+
+end points to a value before the target
+start points to a value after the target
+mid points to a value equal to the target
+
+
+if target value doesn't exsist
+
+start points to the position where the number should actually be
+end points to the one position before where the number should actually be
